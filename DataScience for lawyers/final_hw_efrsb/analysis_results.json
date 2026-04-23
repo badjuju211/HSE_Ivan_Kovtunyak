@@ -11,7 +11,7 @@
                 "15 000 000 руб."
             ],
             "has_court_mention": true,
-            "manager_name": null
+            "manager_name": "Иванов Иван Иванович"
         },
         {
             "publisher_inn": "7702345678",
@@ -37,7 +37,7 @@
                 "42 млн руб."
             ],
             "has_court_mention": false,
-            "manager_name": null
+            "manager_name": "Петров Пётр Петрович"
         },
         {
             "publisher_inn": "7810345612",
@@ -76,7 +76,7 @@
                 "120 млн руб."
             ],
             "has_court_mention": true,
-            "manager_name": null
+            "manager_name": "Сидоров Сергей Сергеевич"
         },
         {
             "publisher_inn": "7448123456",
@@ -128,7 +128,7 @@
                 "45 млн руб."
             ],
             "has_court_mention": true,
-            "manager_name": null
+            "manager_name": "Николаев Николай Николаевич"
         },
         {
             "publisher_inn": "7811789012",
@@ -178,7 +178,7 @@
                 "23 млн руб."
             ],
             "has_court_mention": true,
-            "manager_name": null
+            "manager_name": "Фёдоров Фёдор Фёдорович"
         },
         {
             "publisher_inn": "5040123456",
@@ -230,7 +230,7 @@
                 "340 млн руб."
             ],
             "has_court_mention": false,
-            "manager_name": null
+            "manager_name": "Алексеев Алексей Алексеевич"
         },
         {
             "publisher_inn": "7820234567",
@@ -280,7 +280,7 @@
                 "27 000 000 руб."
             ],
             "has_court_mention": true,
-            "manager_name": null
+            "manager_name": "Дмитриев Дмитрий Дмитриевич"
         },
         {
             "publisher_inn": "7701456780",
@@ -330,7 +330,7 @@
                 "89 млн руб."
             ],
             "has_court_mention": true,
-            "manager_name": null
+            "manager_name": "Сергеев Сергей Сергеевич"
         },
         {
             "publisher_inn": "6161123456",
@@ -441,7 +441,7 @@
                 "22 000 000 руб."
             ],
             "has_court_mention": true,
-            "manager_name": null
+            "manager_name": "Андреев Андрей Андреевич"
         },
         {
             "publisher_inn": "7702345678",
@@ -578,7 +578,7 @@
                 "6 200 000 руб."
             ],
             "has_court_mention": true,
-            "manager_name": null
+            "manager_name": "Васильев Василий Васильевич"
         },
         {
             "publisher_inn": "7706567890",
@@ -635,14 +635,14 @@
         "Жалоба на управляющего": 1
     },
     "region_stats": {
-        "Свердловская область": 6,
-        "Москва": 26,
-        "Санкт-Петербург": 5,
-        "Владимирская область": 1,
-        "Челябинская область": 3,
-        "Ростовская область": 2,
         "Московская область": 2,
-        "Краснодарский край": 3
+        "Ростовская область": 2,
+        "Владимирская область": 1,
+        "Свердловская область": 6,
+        "Краснодарский край": 3,
+        "Санкт-Петербург": 5,
+        "Москва": 26,
+        "Челябинская область": 3
     },
     "priority_messages": [
         {
@@ -656,7 +656,7 @@
                 "15 000 000 руб."
             ],
             "has_court_mention": true,
-            "manager_name": null
+            "manager_name": "Иванов Иван Иванович"
         },
         {
             "publisher_inn": "7702345678",
@@ -682,7 +682,7 @@
                 "42 млн руб."
             ],
             "has_court_mention": false,
-            "manager_name": null
+            "manager_name": "Петров Пётр Петрович"
         },
         {
             "publisher_inn": "7810345612",
@@ -721,7 +721,7 @@
                 "120 млн руб."
             ],
             "has_court_mention": true,
-            "manager_name": null
+            "manager_name": "Сидоров Сергей Сергеевич"
         },
         {
             "publisher_inn": "7706567890",
@@ -760,7 +760,7 @@
                 "45 млн руб."
             ],
             "has_court_mention": true,
-            "manager_name": null
+            "manager_name": "Николаев Николай Николаевич"
         },
         {
             "publisher_inn": "7811789012",
@@ -786,7 +786,7 @@
                 "340 млн руб."
             ],
             "has_court_mention": false,
-            "manager_name": null
+            "manager_name": "Алексеев Алексей Алексеевич"
         },
         {
             "publisher_inn": "7820234567",
@@ -836,7 +836,7 @@
                 "27 000 000 руб."
             ],
             "has_court_mention": true,
-            "manager_name": null
+            "manager_name": "Дмитриев Дмитрий Дмитриевич"
         },
         {
             "publisher_inn": "7701456780",
@@ -873,7 +873,7 @@
                 "89 млн руб."
             ],
             "has_court_mention": true,
-            "manager_name": null
+            "manager_name": "Сергеев Сергей Сергеевич"
         },
         {
             "publisher_inn": "6161123456",
@@ -1049,7 +1049,7 @@
                 "6 200 000 руб."
             ],
             "has_court_mention": true,
-            "manager_name": null
+            "manager_name": "Васильев Василий Васильевич"
         }
     ]
 }
